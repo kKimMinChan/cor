@@ -1,0 +1,25 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kKimMinChan/cor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kKimMinChan/cor/issues"
+  },
+  "homepage": "https://github.com/kKimMinChan/cor#readme",
+  "dependencies": {
+    "csv": "^6.2.0",
+    "sqlite3": "^5.0.11"
+  }
+}
